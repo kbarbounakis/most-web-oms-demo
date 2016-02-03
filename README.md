@@ -13,9 +13,18 @@ Clone this repository
 
     git clone https://github.com/kbarbounakis/most-web-oms-demo.git
 
+Navigate to clone folder
+
+    cd most-web-oms-demo
+
 Use npm to install dependencies
 
     npm install
+
+Use bower to install client dependencies
+
+    cd app
+    bower install
 
 Start application by executing
 
